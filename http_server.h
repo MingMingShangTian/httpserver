@@ -14,7 +14,7 @@ public:
 
 
 // Service with static path.
-class HttpServiceImpl : public HttpService {
+class HttpServiceImpl {
 public:
     HttpServiceImpl() {};
     virtual ~HttpServiceImpl() {};
